@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Serif+Text&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@300&display=swap');
 
 :root {
 	/* Change this value ↓ 0-360 */
@@ -24,9 +24,9 @@
 
 	--space-wide: 0.8em;
 	--space-narrow: 0.4em;
-	--font-fancy: 'DM Serif Display', serif;
-	--font-body: 'DM Serif Text', serif;
-	--font-header: 'DM Serif Display', sans-serif;
+	--font-fancy: 'Archivo Black', serif;
+	--font-body: 'Inter', serif;
+	--font-header: 'Archivo Black', sans-serif;
 	--font-mono: 'Fira Code', monospace;
 	--border-radius: 4px;
 }
