@@ -36,7 +36,7 @@
 	</button>
 	<ul class={`navbar-list${showMobileMenu ? ' mobile' : ''}`}>
 		{#if !showMobileMenu}
-			<li><a href="/"><img src="/Logo.svg" alt="Logo" /></a></li>
+			<li></li>
 		{/if}
 		{#each navItems as item}
 			<li>
