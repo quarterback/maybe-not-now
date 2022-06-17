@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Fira+Code|Lato:400,700|Lora|Playfair+Display:700i,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Serif+Text&display=swap');
 
 :root {
 	/* Change this value ↓ 0-360 */
@@ -24,9 +24,9 @@
 
 	--space-wide: 0.8em;
 	--space-narrow: 0.4em;
-	--font-fancy: 'Playfair Display', serif;
-	--font-body: 'Lora', serif;
-	--font-header: 'Lato', sans-serif;
+	--font-fancy: 'DM Serif Display', serif;
+	--font-body: 'DM Serif Text', serif;
+	--font-header: 'DM Serif Display', sans-serif;
 	--font-mono: 'Fira Code', monospace;
 	--border-radius: 4px;
 }
