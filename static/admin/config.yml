@@ -8,7 +8,6 @@ media_folder: static/images
 public_folder: /images
 site_url: https://www.example.com/
 display_url: https://www.example.com
-logo_url: https://www.example.com/CMSLogo.png # Logo must be 300x125px
 search: false
 
 
