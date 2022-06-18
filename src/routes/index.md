@@ -25,13 +25,12 @@
 </script>
 
 <!-- TODO UPDATE THE SEO INFO -->
-<Seo title="Paws" description={variables.siteDescription} path="/" openGraphImage="OGExample.png"/>
+<Seo title="Ron Bronson" description={variables.siteDescription} path="/" openGraphImage=""/>
 
-# Paws
+# Ron Bronson
 
 <p class=emph>
-Lightweight and simple static site template for researchers in the
-Digital Humanities.
+
 </p>
 
 [Use this template]({variables.github}) in GitHub, or read the [deployed documentation]({variables.siteUrl}).

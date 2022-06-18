@@ -2,9 +2,9 @@
 
 :root {
 	/* Change this value ↓ 0-360 */
-	--colour-main-hue: 38;
-	--colour-main-saturation: 88%;
-	--colour-main-lightness: 52%;
+	--colour-main-hue: 140;
+	--colour-main-saturation: 19%;
+	--colour-main-lightness: 7%;
 	--colour-main: hsl(
 		var(--colour-main-hue),
 		var(--colour-main-saturation),
