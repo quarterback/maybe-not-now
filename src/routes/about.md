@@ -3,9 +3,9 @@
 </script>
 
 <!-- TODO UPDATE THE SEO INFO -->
-<Seo title="About Paws" description="" path="/about" />
+<Seo title="About Ron" description="" path="/about" />
 
-# Hi! 👋
+# 
 
 Here's the page where you might want to write about yourself or your project and why it is cool. This page, like the blog posts, is written in Markdown, but is not hooked up to the [CMS](/blog/cms) (if you are using one).
 

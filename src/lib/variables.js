@@ -1,10 +1,10 @@
 export const variables = {
 	// URL where live site is deployed, used in sitemap, RSS feed
-	siteUrl: 'https://paws.codexfelis.dev',
+	siteUrl: 'https://timely-eclair-981fe1.netlify.app/',
 	// Used in page titles, helps with SEO
 	projectName: 'Ron Bronson',
 	// Brief website description, used in description fields in RSS, HTML head. Helps with SEO
-	siteDescription: '',
+	siteDescription: 'Design leader, etc. ',
 	// The twitter username for you/project/department
 	twitter: 'ronbronson',
 	// Whatever GitHub you want to link to in the footer

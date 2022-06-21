@@ -33,7 +33,7 @@
 
 <Seo
 	title="{variables.projectName} blog"
-	description="A blog about a very cool project TODO update me!"
+	description="Musings about design, strategy & real life"
 	path="/{variables.contentPath}"
 />
 

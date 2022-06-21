@@ -33,14 +33,15 @@
 
 </p>
 
-[Use this template]({variables.github}) in GitHub, or read the [deployed documentation]({variables.siteUrl}).
+Ron Bronson is a design leader & practitioner. He currently works as Director of Design at 18F, a development & design consultancy inside the federal government. He's worked on projects with Centers of Medicare & Medicaid, Department of Defense, and others. Prior to joining 18F in 2017, he spent over a decade working primarily on large-scale website redesigns & leading digital strategy in government and higher education. 
 
-Paws is a static site built on [SvelteKit](https://kit.svelte.dev/), using [Markdown](https://www.markdownguide.org/) for blog content, optionally with [Netlify CMS](https://www.netlifycms.org/). [Developer tooling](/blog/tooling) to help with editing the
-template in [VSCode](https://code.visualstudio.com/) is provided.
+Since 2007, he's been on stage at events around the world including Service Design Network, Code for America summit, An Event Apart, DrupalCon & Confab. He's given talks at events far and wide including design & tech events in South Africa, Canada, and Norway. Ron's talks focus primarily on service design, friction, so-called 'dark' patterns, and the responibility of designers.
 
-"Static site" means that the website is made up of pre-built HTML, CSS and a tiny bit of JavaScript. The web pages load the same way every time, unlike dynamic websites, which load differently based on things such as the user's location, the time of day, or user actions. A static website can be served for free or very low cost, and provides a smooth and fast experience for users of the website. There's no content database to make things slow, or pose security issues as in for example a Wordpress site.
+Ron was previously a Portland Historic Landmarks Commissioner, founding director of Indianapolis Design Week, a member of the board for Indianapolis chapter of AIGA, and a board member and volunteer radio news anchor at WFHB-FM, a community radio station in Bloomington, Indiana, and served in the U.S. Air Force.
 
-## Get started
+Outside of work, he's a world-class skeball player, (accidentally) invented a sport in 2004, and coaches high school tennis in his spare time.
+
+<!-- ## Get started
 
 Get up and running with this site really fast! For an [opinionated
 quickstart](/blog/initial-setup), you need to have
@@ -62,7 +63,7 @@ While this template is still under development, these docs assume that you:
 - are able to set up a working NodeJS environment on your computer.
 
 More comprehensive beginner documentation is coming soon, and if you get stuck feel free to [contact
-us](mailto:hi@codexfelis.dev) for help or [raise an issue in GitHub]({variables.github}/issues).
+us](mailto:hi@codexfelis.dev) for help or [raise an issue in GitHub]({variables.github}/issues). 
 
 <a class=emph href="/blog/initial-setup">
 Get started!
@@ -72,4 +73,5 @@ Get started!
 
 {#each blogPosts as blogPost}
 <BlogSummary {blogPost} />
-{/each}
+{/each} 
+-->
