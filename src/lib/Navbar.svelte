@@ -7,8 +7,8 @@
 	const navItems = [
 		{ label: 'Home', href: '/' },
 		{ label: 'Blog', href: `/${variables.contentPath}` },
-		{ label: 'About', href: '/about' }
-		{ label: 'Speaking', href: '/speaking' }
+		{ label: 'About', href: '/about' },
+		{ label: 'Speaking', href: '/speaking' },
 	];
 
 	const toggleMobileMenuVisible = () => (showMobileMenu = !showMobileMenu);
