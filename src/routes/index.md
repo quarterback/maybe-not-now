@@ -32,14 +32,14 @@
 <p class=emph>
 
 </p>
-
-Ron Bronson is a design leader & practitioner. He currently works as Director of Design at 18F, a development & design consultancy inside the federal government. He's worked on projects with Centers of Medicare & Medicaid, Department of Defense, and others. Prior to joining 18F in 2017, he spent over a decade working primarily on large-scale website redesigns & leading digital strategy in government and higher education. 
+<h2> Public interest design director, skeeball champ & (occasional) tennis coach</h2>
+Ron Bronson is a design leader & practitioner. He currently works as Director of Design at 18F, a development & design consultancy inside the federal government. He's worked on projects with Centers of Medicare & Medicaid, Department of Defense, and others. Prior to joining 18F in 2017, he spent over a decade leading large-scale digital initiatives for public & private sector entities around the country.
 
 Since 2007, he's been on stage at events around the world including Service Design Network, Code for America summit, An Event Apart, DrupalCon & Confab. He's given talks at events far and wide including design & tech events in South Africa, Canada, and Norway. Ron's talks focus primarily on service design, friction, so-called 'dark' patterns, and the responibility of designers.
 
-Ron was previously a Portland Historic Landmarks Commissioner, founding director of Indianapolis Design Week, a member of the board for Indianapolis chapter of AIGA, and a board member and volunteer radio news anchor at WFHB-FM, a community radio station in Bloomington, Indiana, and served in the U.S. Air Force.
+Ron was previously a Portland Historic Landmarks Commissioner, founding director of Indianapolis Design Week, on the board of the Indianapolis chapter of AIGA, and a board member and volunteer radio news anchor at WFHB-FM, a community radio station in Bloomington, Indiana, and served in the U.S. Air Force.
 
-Outside of work, he's a world-class skeball player, (accidentally) invented a sport in 2004, and coaches high school tennis in his spare time.
+Outside of work, he's a world-class skeball player, (accidentally) invented a sport in 2004, and coaches high school tennis in his spare time. Ron is also (probably) America's foremost authority on the [Finnish sport of Pesäpallo](https://www.superpesis.fi/uutiset/yhdysvaltalainen-ron-bronson-toteutti-unelmansa-ja-matkusti-suomeen-katsomaan-pesapalloa/).
 
 <!-- ## Get started
 
