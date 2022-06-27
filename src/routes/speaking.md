@@ -3,11 +3,9 @@
 </script>
 
 <!-- TODO UPDATE THE SEO INFO -->
-<Seo title="About Ron" description="" path="/about" />
+<Seo title="About Ron" description="Talks and Interviews from Ron Bronson since 2017" path="/about" />
 
-# 
-
-**Past Talks**
+# Past Talks
 
 -   **Nov. '21: IXDA OSLO / [The Designer's Share of the Problem](https://vimeo.com/651801535)**
 -   **Oct '21: Design Week Colorado Springs**
@@ -20,7 +18,7 @@
 -   **July '17: [Design & Content Vancouver](https://vimeo.com/228911684) / Discovery & Microinteractions: Improving the Product Toolbox**
 -   **May '17: Pixel Up! Cape Town**
 
-**Interviews**
+# Interviews
 -----------------
 -   Sept. '21: [Content Types](https://youtu.be/nnuYyD7xXIk) (IA Lens A Day)
 -   July '21: [On Service Design](https://www.surfacingpodcast.com/ron-bronson-transcript) (Surfacing Podcast)
