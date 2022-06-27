@@ -30,9 +30,9 @@
 # Ron Bronson
 
 <p class=emph>
-
+Public interest design director, skeeball champ & (occasional) tennis coach
 </p>
-<h2> Public interest design director, skeeball champ & (occasional) tennis coach</h2>
+
 Ron Bronson is a design leader & practitioner. He currently works as Director of Design at 18F, a development & design consultancy inside the federal government. He's worked on projects with Centers of Medicare & Medicaid, Department of Defense, and others. Prior to joining 18F in 2017, he spent over a decade leading large-scale digital initiatives for public & private sector entities around the country.
 
 Since 2007, he's been on stage at events around the world including Service Design Network, Code for America summit, An Event Apart, DrupalCon & Confab. He's given talks at events far and wide including design & tech events in South Africa, Canada, and Norway. Ron's talks focus primarily on service design, friction, so-called 'dark' patterns, and the responibility of designers.
