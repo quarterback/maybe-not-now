@@ -29,11 +29,8 @@
 
 # Ron Bronson
 
-<p class=emph>
-
-</p>
-
 <h2>I work at 18F part of the federal government's Technology Transformation Services. As Head of Design, I manage one of the largest in-house design teams in the federal government, deploying designers as part of cross-functional teams to collaborate with federal (and sometimes, state) agencies on improving service delivery.</h2>
+<br />
 
 Prior to joining senior leadership at 18F, I served as a design manager, staffing lead, and individual contributor on engagements with agencies with the Centers for Medicare & Medicaid, Department of Defense, Federal Trade Commission, and others. 
 
