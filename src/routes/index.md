@@ -33,7 +33,7 @@
 Public interest design leadership, service designer, tennis coach & skeeball champ.
 </p>
 
-<h2>I'm currently work at <a href="https://18f.gsa.gov">18F</a> part of the federal government's Technology Transformation Services. <br /> As Head of Design, I manage one of the largest in-house design teams in the federal government, deploying designers as part of cross-functional teams to collaborate with federal (and sometimes, state) agencies on improving service delivery. </h2>
+<h2>I work at 18F part of the federal government's Technology Transformation Services. As Head of Design, I manage one of the largest in-house design teams in the federal government, deploying designers as part of cross-functional teams to collaborate with federal (and sometimes, state) agencies on improving service delivery.</h2>
 
 Prior to joining senior leadership at 18F, I served as a design manager, staffing lead, and individual contributor on engagements with agencies with the Centers for Medicare & Medicaid, Department of Defense, Federal Trade Commission, and others. 
 
@@ -52,7 +52,7 @@ I played college & high school tennis and had a coach that changed my life. It i
 
 <h3> Volunteering </h3>
 
-In 2021-22, I served on the Portland Historic Landmarks Commission, which mostly happened because I have an instagram that's just neon photos. [Yes, really.](instagram.com/portlandneon)
+In 2021-22, I served on the Portland Historic Landmarks Commission, which mostly happened because I have an instagram that's just neon photos.
 
 Other semi-interesting stuff I've done: I started Indianapolis Design Week in 2016 and ran it for two years, before transferring leadership. (It still exists!) I've run a few other design/tech events in the past, too. 
 
