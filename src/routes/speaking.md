@@ -5,6 +5,8 @@
 <!-- TODO UPDATE THE SEO INFO -->
 <Seo title="About Ron" description="Talks and Interviews from Ron Bronson since 2017" path="/about" />
 
+<h3>I've presented at over 50 events globally since 2013, and have been interviewed on a bevy of design, tech, and other media.</h3>
+
 # Past Talks
 
 -   **Nov. '21: IXDA OSLO / [The Designer's Share of the Problem](https://vimeo.com/651801535)**

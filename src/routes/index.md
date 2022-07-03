@@ -30,16 +30,35 @@
 # Ron Bronson
 
 <p class=emph>
-Public interest design director, skeeball champ & (occasional) tennis coach
+Public interest design leadership, service designer, tennis coach & skeeball champ.
 </p>
 
-Ron Bronson is a design leader & practitioner. He currently works as Director of Design at 18F, a development & design consultancy inside the federal government. He's worked on projects with Centers of Medicare & Medicaid, Department of Defense, and others. Prior to joining 18F in 2017, he spent over a decade leading large-scale digital initiatives for public & private sector entities around the country.
+<h2>I'm currently work at <a href="https://18f.gsa.gov">18F</a> part of the federal government's Technology Transformation Services. <br /> As Head of Design, I manage one of the largest in-house design teams in the federal government, deploying designers as part of cross-functional teams to collaborate with federal (and sometimes, state) agencies on improving service delivery. </h2>
 
-Since 2007, he's been on stage at events around the world including Service Design Network, Code for America summit, An Event Apart, DrupalCon & Confab. He's given talks at events far and wide including design & tech events in South Africa, Canada, and Norway. Ron's talks focus primarily on service design, friction, so-called 'dark' patterns, and the responibility of designers.
+Prior to joining senior leadership at 18F, I served as a design manager, staffing lead, and individual contributor on engagements with agencies with the Centers for Medicare & Medicaid, Department of Defense, Federal Trade Commission, and others. 
 
-Ron was previously a Portland Historic Landmarks Commissioner, founding director of Indianapolis Design Week, on the board of the Indianapolis chapter of AIGA, and a board member and volunteer radio news anchor at WFHB-FM, a community radio station in Bloomington, Indiana, and served in the U.S. Air Force.
+Before joining the federal government, I spent years working across local & state government wearing a lot of hats, but mostly leading large-scale digital transformation projects. My core skills are information architecture, service design, UX research, and content strategy. 
 
-Outside of work, he's a world-class skeball player, (accidentally) invented a sport in 2004, and coaches high school tennis in his spare time. Ron is also (probably) America's foremost authority on the [Finnish sport of Pesäpallo](https://www.superpesis.fi/uutiset/yhdysvaltalainen-ron-bronson-toteutti-unelmansa-ja-matkusti-suomeen-katsomaan-pesapalloa/).
+Many moons ago, I also served in the U.S. Air Force.
+
+<h3> Coaching </h3>
+
+I've coached high school (and one college) tennis teams in Oregon & Colorado intermittently since 2009. 
+
+Right now, I'm Head Girls Varsity Tennis coach at Catlin Gabel School in Portland. We won the Oregon 4A state title this past year (which was pretty cool.)
+
+I played college & high school tennis and had a coach that changed my life. It inspired me to coach, so I spent several summers at camps as a tennis coach. [I talked about this on a podcast, once.](https://podcasts.apple.com/fi/podcast/2-mr-van-blake-pes%C3%A4pallo-consequence-design-with-ron/id1543988908?i=1000523670103)
+
+
+<h3> Volunteering </h3>
+
+In 2021-22, I served on the Portland Historic Landmarks Commission, which mostly happened because I have an instagram that's just neon photos. [Yes, really.](instagram.com/portlandneon)
+
+Other semi-interesting stuff I've done: I started Indianapolis Design Week in 2016 and ran it for two years, before transferring leadership. (It still exists!) I've run a few other design/tech events in the past, too. 
+
+I've launched skeeball leagues in at least two cities, too. Also, I'm (probably) America's foremost authority on the [Finnish sport of Pesäpallo.](https://www.superpesis.fi/uutiset/yhdysvaltalainen-ron-bronson-toteutti-unelmansa-ja-matkusti-suomeen-katsomaan-pesapalloa/) 
+
+Speaking of sports, there's the time [we invented one](https://toccer.tumblr.com/). 
 
 <!-- ## Get started
 
