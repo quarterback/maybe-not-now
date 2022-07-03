@@ -30,7 +30,7 @@
 # Ron Bronson
 
 <p class=emph>
-Public interest design leadership, service designer, tennis coach & skeeball champ.
+
 </p>
 
 <h2>I work at 18F part of the federal government's Technology Transformation Services. As Head of Design, I manage one of the largest in-house design teams in the federal government, deploying designers as part of cross-functional teams to collaborate with federal (and sometimes, state) agencies on improving service delivery.</h2>
