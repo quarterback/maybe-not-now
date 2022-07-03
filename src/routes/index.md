@@ -29,12 +29,15 @@
 
 # Ron Bronson
 
-<h2>I work at 18F part of the federal government's Technology Transformation Services. As Head of Design, I manage one of the largest in-house design teams in the federal government, deploying designers as part of cross-functional teams to collaborate with federal (and sometimes, state) agencies on improving service delivery.</h2>
+<h2>I work at 18F. As Head of Design, I manage one of the largest in-house design teams in the federal government, deploying designers as part of cross-functional teams to collaborate with federal (and sometimes, state) agencies on improving service delivery.</h2>
 <br />
+
+Besides my "day job", you can find me traveling all over hither and yon talking about service design, the perils of friction in service delivery, and writing (slowly) on [Consequence Design](https://consequencedesign.org).
 
 Prior to joining senior leadership at 18F, I served as a design manager, staffing lead, and individual contributor on engagements with agencies with the Centers for Medicare & Medicaid, Department of Defense, Federal Trade Commission, and others. 
 
 Before joining the federal government, I spent years working across local & state government wearing a lot of hats, but mostly leading large-scale digital transformation projects. My core skills are information architecture, service design, UX research, and content strategy. 
+
 
 Many moons ago, I also served in the U.S. Air Force.
 
