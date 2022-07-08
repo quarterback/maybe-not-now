@@ -41,14 +41,15 @@ Before joining the federal government, I spent years working across local & stat
 
 Many moons ago, I also served in the U.S. Air Force.
 
-<h3> Coaching </h3>
+<h3> Tennis Coaching </h3>
 
-I've coached high school (and one college) tennis teams in Oregon & Colorado intermittently since 2009. 
+I've coached collegiate, scholarship, and summer tennis programs intermittently over the past two decades in Oregon, Colorado, Vermont & Connecticut. 
 
-Right now, I'm Head Girls Varsity Tennis coach at Catlin Gabel School in Portland. We won the Oregon 4A state title this past year (which was pretty cool.)
+Right now, I'm Head Girls Varsity Tennis coach at Catlin Gabel School in Portland. Since taking over three seasons ago, we've won back-to-back conference titles & district championships. In 2022, we won the Oregon 4A/3A/2A/1A Tennis State title. (Which is pretty cool.) I was also voted District & Conference Coach of the Year. 
 
-I played college & high school tennis and had a coach that changed my life. It inspired me to coach, so I spent several summers at camps as a tennis coach. [I talked about this on a podcast, once.](https://podcasts.apple.com/fi/podcast/2-mr-van-blake-pes%C3%A4pallo-consequence-design-with-ron/id1543988908?i=1000523670103)
+I played college & high school tennis and had a coach that changed my life. It inspired me to coach. [I talked about this on a podcast, once.](https://podcasts.apple.com/fi/podcast/2-mr-van-blake-pes%C3%A4pallo-consequence-design-with-ron/id1543988908?i=1000523670103)
 
+I've also coached a few seasons of college debate (after competing in that activity in HS & college) too.
 
 <h3> Volunteering </h3>
 
