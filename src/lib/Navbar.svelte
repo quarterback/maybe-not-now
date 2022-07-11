@@ -7,6 +7,7 @@
 	const navItems = [
 		{ label: 'Home', href: '/' },
 		{ label: 'Media', href: '/speaking' },
+		{ label: 'Consequence Design', href: 'https://consequencedesign.com' },
 	];
 
 	const toggleMobileMenuVisible = () => (showMobileMenu = !showMobileMenu);
