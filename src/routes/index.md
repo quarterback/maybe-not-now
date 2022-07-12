@@ -32,7 +32,7 @@
 <h2>I work at 18F. As Head of Design, I manage one of the largest in-house design teams in the federal government, deploying designers as part of cross-functional teams to collaborate with federal (and sometimes, state) agencies on improving service delivery.</h2>
 <br />
 
-Besides my "day job", you can find me traveling all over hither and yon talking about service design, the perils of friction in service delivery, and writing (slowly) on [Consequence Design](https://consequencedesign.org).
+Besides my "day job", you can find me traveling all over hither and yon talking about service design, the perils of friction in service delivery, and writing (slowly) on [Consequence Design](https://qx-tina.vercel.app/docs/getting-started/).
 
 Prior to joining senior leadership at 18F, I served as a design manager, staffing lead, and individual contributor on engagements with agencies with the Centers for Medicare & Medicaid, Department of Defense, Federal Trade Commission, and others. 
 
@@ -45,7 +45,7 @@ Many moons ago, I also served in the U.S. Air Force.
 
 I've coached collegiate, scholarship, and summer tennis programs intermittently over the past two decades in Oregon, Colorado, Vermont & Connecticut. 
 
-Right now, I'm [Head Girls Varsity Tennis coach](https://www.maxpreps.com/or/portland/catlin-gabel-eagles/tennis/girls/spring/schedule/) at Catlin Gabel School in Portland. Since taking over three seasons ago, we've won back-to-back conference titles & district championships. In 2022, we won the Oregon 4A/3A/2A/1A Tennis State title. (Which is pretty cool.) I was also voted District & Conference Coach of the Year. 
+Right now, I'm [Head Girls Varsity Tennis coach](https://www.maxpreps.com/or/portland/catlin-gabel-eagles/tennis/girls/spring/schedule/) at Catlin Gabel School in Portland. Since taking over three seasons ago, we've won back-to-back conference titles & district championships. In 2022, we won the Oregon 4A/3A/2A/1A Tennis State title. (Which is pretty cool.) I was also named District Coach of the Year.
 
 I played college & high school tennis and had a coach that changed my life. It inspired me to coach. [I talked about this on a podcast, once.](https://podcasts.apple.com/fi/podcast/2-mr-van-blake-pes%C3%A4pallo-consequence-design-with-ron/id1543988908?i=1000523670103)
 
