@@ -30,12 +30,15 @@
 # Ron Bronson
 
 <p>I'm Head of Design at <a href="https://18f.gsa.gov">18F</a>. I've spent my career working on large-scale digital transformation, and working with cross-functional teams on iterative software delivery. 
+
 In practice, I wear a lot of hats. Everything from leading a team of design managers, hiring, performance reviews, and lots of meetings helping advise and steer the direction of our work on behalf of the public.  
+
 I've led content strategy & information architecture; steered UX research; advised senior leaders on digital strategy; and occasionally some Agile product management. I speak globally on these topics, too. I'm also (very slowly) working on a book about Consequence Design.
 
 <h3>Extracurriculars</h3>
 
 Outside of work, you can find me playing skeeball, <a href="https://www.superpesis.fi/uutiset/yhdysvaltalainen-ron-bronson-toteutti-unelmansa-ja-matkusti-suomeen-katsomaan-pesapalloa/">studying Finnish</a>, or coaching <a href="https://www.oregonlive.com/highschoolsports/2022/05/catlin-gabel-sweeps-class-4a3a2a1a-tennis-team-titles.html#:~:text=The%20Catlin%20Gabel%20Eagles%20came,reached%20the%20summit%20in%202022.">high school tennis.</a>
+
 Previously, I served on the Portland Historic Landmarks Commission, was an AIGA Indianapolis board member, a radio news anchor (and board member) for a community radio station. I also started Indianapolis Design Week in 2017. I've coached college debate a few times, accidentally <a href="https://en.wikipedia.org/wiki/Tennis_polo">invented a sport once</a>, and many moons ago, served in US Air Force.
 
 <h3>Speaking</h3>
