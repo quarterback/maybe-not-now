@@ -46,6 +46,7 @@ In my spare time, you can find me playing skeeball, <a href="https://www.superpe
 
 <a href="http://consequencedesign.com"Consequence Design</a>
 <a href="https://ronbronson.medium.com/">Medium</a>
+
 <h3>Connect</h3>
 <a href="mailto:contact@ronbronson.com">Email</a>
 <a href="https://twitter.com/ronbronson">Twitter</a>
