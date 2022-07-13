@@ -41,7 +41,6 @@ In my spare time, you can find me playing skeeball, <a href="https://www.superpe
 <a href="https://aneventapart.com/event/online-0720#s24059">An Event Apart</a>
 <a href="https://www.youtube.com/watch?v=REUJCWpFOcI">DrupalCon</a>
 
-
 <h3>Writing</h3>
 
 <a href="http://consequencedesign.com"Consequence Design</a>
