@@ -39,7 +39,7 @@ In my spare time, you can find me playing skeeball, <a href="https://www.superpe
 <a href="https://open.spotify.com/episode/3Xd9MZ9HdByErb41jb7vUX">ACT-IAC Podcast</a> - Edge Cases & Empathy
 <a href="https://youtu.be/JqguCFiY3KM">Service Design Network Global Conference</a>
 <a href="https://aneventapart.com/event/online-0720#s24059">An Event Apart</a>
-<a href="https://www.youtube.com/watch?v=REUJCWpFOcI">DrupalCon</a>
+<a href="https://www.youtube.com/watch?v=REUJCWpFOcI">DrupalCon</a> <br />
 
 <h3>Writing</h3>
 
