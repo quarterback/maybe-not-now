@@ -29,7 +29,7 @@
 
 # Ron Bronson
 
-<p>I'm Head of Design at <a href="https://18f.gsa.gov">18F</a>
+<p>I'm Head of Design at <a href="https://18f.gsa.gov">18F</a>/
 Outside of my work leading one of the government's largest in-house design teams, I speak and write on service design, information architecture & content strategy. 
 In my spare time, you can find me playing skeeball, <a href="https://www.superpesis.fi/uutiset/yhdysvaltalainen-ron-bronson-toteutti-unelmansa-ja-matkusti-suomeen-katsomaan-pesapalloa/">studying Finnish</a>, or coaching a state title winning <a href="https://www.oregonlive.com/highschoolsports/2022/05/catlin-gabel-sweeps-class-4a3a2a1a-tennis-team-titles.html#:~:text=The%20Catlin%20Gabel%20Eagles%20came,reached%20the%20summit%20in%202022.">high school tennis team.</a>
 
