@@ -31,9 +31,7 @@
 
 <p>I'm Head of Design at <a href="https://18f.gsa.gov">18F</a>. I've spent my career working on large-scale digital transformation, and working with cross-functional teams on iterative software delivery. 
 
-In practice, I wear a lot of hats. Everything from leading a team of design managers, hiring, performance reviews, and lots of meetings helping advise and steer the direction of our work on behalf of the public. 
-
-Hands on, I've led content strategy & information architecture; steered UX research; advised senior leaders on digital strategy; and occasionally some Agile product management. I speak globally on these topics, too. I'm also (very slowly) working on a book about Consequence Design.
+In practice, I wear a lot of hats. Everything from leading a team of design managers, hiring, performance reviews, and lots of meetings helping advise and steer the direction of our work on behalf of the public.  I've led content strategy & information architecture; steered UX research; advised senior leaders on digital strategy; and occasionally some Agile product management. I speak globally on these topics, too. I'm also (very slowly) working on a book about Consequence Design.
 
 <h3>Extracurriculars</h3>
 
