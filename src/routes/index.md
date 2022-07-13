@@ -29,65 +29,32 @@
 
 # Ron Bronson
 
-<h2>I work at 18F. As Head of Design, I manage one of the largest in-house design teams in the federal government, deploying designers as part of cross-functional teams to collaborate with federal (and sometimes, state) agencies on improving service delivery.</h2>
+<h2>I'm Head of Design at <a href="https://18f.gsa.gov">18F</a></h2>.
+
+<p>Outside of my work leading one of the government's largest in-house design teams, I speak and write on service design, information architecture & content strategy. 
+
+In my spare time, you can find me playing skeeball, <a href="https://www.superpesis.fi/uutiset/yhdysvaltalainen-ron-bronson-toteutti-unelmansa-ja-matkusti-suomeen-katsomaan-pesapalloa/">studying Finnish</a>, or coaching a state title winning <a href="https://www.oregonlive.com/highschoolsports/2022/05/catlin-gabel-sweeps-class-4a3a2a1a-tennis-team-titles.html#:~:text=The%20Catlin%20Gabel%20Eagles%20came,reached%20the%20summit%20in%202022.">high school tennis team.</a>
+
 <br />
 
-Besides my "day job", you can find me traveling all over hither and yon talking about service design, the perils of friction in service delivery, and writing (slowly) on [Consequence Design](https://qx-tina.vercel.app/docs/getting-started/).
+<h3>Speaking</h3>
+<a href="https://vimeo.com/651801535">IxDA Oslo</a><br>
+<a href="https://www.surfacingpodcast.com/ron-bronson-transcript">Surfacing Podcast</a> - <em>On Service Design</em><br>
+<a href="https://open.spotify.com/episode/3Xd9MZ9HdByErb41jb7vUX">ACT-IAC Podcast</a> - <em>Edge Cases & Empathy</em><br>
+<a href="https://youtu.be/JqguCFiY3KM">Service Design Network Global Conference</a><br>
+<a href="https://aneventapart.com/event/online-0720#s24059">An Event Apart</a><br>
+<a href="https://www.youtube.com/watch?v=REUJCWpFOcI">DrupalCon</a><br>
 
-Prior to joining senior leadership at 18F, I served as a design manager, staffing lead, and individual contributor on engagements with agencies with the Centers for Medicare & Medicaid, Department of Defense, Federal Trade Commission, and others. 
 
-Before joining the federal government, I spent years working across local & state government wearing a lot of hats, but mostly leading large-scale digital transformation projects. My core skills are information architecture, service design, UX research, and content strategy. 
+<h3>Connect</h3>
+<a href="mailto:contact@ronbronson.com">Email</a><br />
+<a href="https://twitter.com/ronbronson">Twitter</a><br />
+<a href="https://linkedin.com/in/ronbronson">Linkedin</a><br />
+<a href="https://ronbronson.medium.com/">Medium</a><br />
+<a href="https://last.fm/user/omnivoreron">Last.fm</a><br />
+<a href="https://open.spotify.com/user/ronbronson?si=5ad7335e796f4535">Spotify</a><br />
 
-
-Many moons ago, I also served in the U.S. Air Force.
-
-<h3> Tennis Coaching </h3>
-
-I've coached collegiate, scholarship, and summer tennis programs intermittently over the past two decades in Oregon, Colorado, Vermont & Connecticut. 
-
-Right now, I'm [Head Girls Varsity Tennis coach](https://www.maxpreps.com/or/portland/catlin-gabel-eagles/tennis/girls/spring/schedule/) at Catlin Gabel School in Portland. Since taking over three seasons ago, we've won back-to-back conference titles & district championships. In 2022, we won the Oregon 4A/3A/2A/1A Tennis State title. (Which is pretty cool.) I was also named District Coach of the Year.
-
-I played college & high school tennis and had a coach that changed my life. It inspired me to coach. [I talked about this on a podcast, once.](https://podcasts.apple.com/fi/podcast/2-mr-van-blake-pes%C3%A4pallo-consequence-design-with-ron/id1543988908?i=1000523670103)
-
-I've also coached a few seasons of college debate (after competing in that activity in HS & college) too.
-
-<h3> Volunteering </h3>
-
-In 2021-22, I served on the Portland Historic Landmarks Commission, which mostly happened because I have an instagram that's just neon photos.
-
-Other semi-interesting stuff I've done: I started Indianapolis Design Week in 2016 and ran it for two years, before transferring leadership. (It still exists!) I've run a few other design/tech events in the past, too. 
-
-I've launched skeeball leagues in at least two cities, too. Also, I'm (probably) America's foremost authority on the [Finnish sport of Pesäpallo.](https://www.superpesis.fi/uutiset/yhdysvaltalainen-ron-bronson-toteutti-unelmansa-ja-matkusti-suomeen-katsomaan-pesapalloa/) 
-
-Speaking of sports, there's the time [we invented one](https://toccer.tumblr.com/). 
-
-<!-- ## Get started
-
-Get up and running with this site really fast! For an [opinionated
-quickstart](/blog/initial-setup), you need to have
-
-- clicked "use this template" in [GitHub]({variables.github}), so you have your own copy of
-  this repository, and cloned it to your own computer
-- set up a free account on Netlify ready for [deployment](/blog/deployment) (other static site hosting options
-  are fine if you know how)
-- thought about whether you are happy writing blog content in files in
-  GitHub, or prefer to use a [CMS](/blog/cms) for web-based writing.
-- thought about whether this template has the right site sections
-  (home/blog/about) for you, or if you need extra pages
-
-While this template is still under development, these docs assume that you:
-
-- are vaguely familiar with basic git commands (clone, add, commit, push) and GitHub
-- know how to edit HTML/JavaScript files on your computer (even if you don't fully
-  understand what they mean)
-- are able to set up a working NodeJS environment on your computer.
-
-More comprehensive beginner documentation is coming soon, and if you get stuck feel free to [contact
-us](mailto:hi@codexfelis.dev) for help or [raise an issue in GitHub]({variables.github}/issues). 
-
-<a class=emph href="/blog/initial-setup">
-Get started!
-</a>
+<!--
 
 ## [Recent blog posts](/blog)
 

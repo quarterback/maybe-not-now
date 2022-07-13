@@ -4,14 +4,9 @@
 
 <footer>
 	<p>
-		<a href="https://twitter.com/{variables.twitter}" target="_blank" rel="noopener noreferrer"
-			>Twitter
-		</a>
-		<a href={variables.github} target="_blank" rel="noopener noreferrer">GitHub </a>
-		<a href="https://instagram.com/ronbronson" target="_blank" rel="noopener noreferrer">Instagram</a>
-		<a href="https://www.last.fm/user/omnivoreron" target="_blank" rel="noopener noreferrer">Last.fm</a>
 		<a href="/rss.xml" rel="external">📰 RSS </a>
 	</p>
+	<p>Hastily built with SvelteKit, Markdown, VSCode, Github & Netlify. Uses the <a href="https://github.com/codexfelis/paws-template">Paws JAMStack template.</a></p>
 	<p>
 	
 	</p>
