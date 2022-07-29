@@ -29,14 +29,28 @@
 
 # Ron Bronson
 
-<p>I'm Head of Design at <a href="https://18f.gsa.gov">18F</a>. I've spent my career working on large-scale digital transformation, and working with cross-functional teams on iterative software delivery. 
+<h2>Design Leadership & Digital transformation</h2>
 
-In practice, I wear a lot of hats. Everything from leading a team of design managers, hiring, performance reviews, and lots of meetings helping advise and steer the direction of our work on behalf of the public.  
+<p> My specialities are service design and information architecture. Beyond just building websites, I'm really good at helping stakeholders identify & solve intractable problems through user inquiry. Right now, I'm Head of Design for one of the largest design departments in the federal government at <a href="https://18f.gsa.gov">18F</a>. Day to day, I lead teams of managers and designers who help improve technology for the public interest. For nearly two decades, I've worn every imaginable hat you can on digital project teams -- product manager, content strategist, UX designer, researcher and product designer. 
 
-I've led content strategy & information architecture; steered UX research; advised senior leaders on digital strategy; and occasionally some Agile product management. I speak globally on these topics, too. I'm also (very slowly) working on a book about Consequence Design.
+Previously, I served on the Portland Historic Landmarks Commission, was an AIGA Indianapolis board member, a radio news anchor (and board member) for a community radio station. I also started Indianapolis Design Week in 2017. I've coached college debate a few times, accidentally <a href="https://en.wikipedia.org/wiki/Tennis_polo">invented a sport once</a>, and many moons ago, served in US Air Force.
 
+After playing tennis in both high school & college, I took up coaching. I spent several summers running tennis programs at some of the best camps in New England, as well as a collegiate program, before taking a decade off from coaching before returning in 2019 as a high school varsity head coach. My coaching philosophy mirrors how I work as a design leader; take the time to understand what motivates people, help them develop a success plan & put them in situations where they can gain confidence and grow. (Sometimes, this means failing first.) I run an inclusive program that motivates kids at every level to grow, regardless of their spot on the challenge ladder.
+
+<h3>Tennis Honors<h3>
+2022 Oregon 4A/3A/2A/1A Girls Tennis State Champions (Catlin Gabel School)
+2022 District Girls Tennis Coach of the Year
+2021 & 2022 4A-1A District 1 Champions, 2x League Championships (20-0 in league play since 2019)
+12 All-District selections (2021-22), 4 individual district champions
+2019 OSAA All-State Academic Team (Oregon City HS)
+
+Outside of work, you can also find me spinning up skeeball leagues, or <a href="https://www.superpesis.fi/uutiset/yhdysvaltalainen-ron-bronson-toteutti-unelmansa-ja-matkusti-suomeen-katsomaan-pesapalloa/">co-hosting the only English-language podcast about Finnish baseball.</a> (it's a long story...)
 
 <h3>Speaking</h3>
+<p>I've been on stage at over 50 tech & design conference since 2013. Beyond local events, I've been on stage at global events like Service Design Global Conference, Confab, An Event Apart and Pixel Up. I speak on a range of topics related to my work, and enjoy melding technical expertise with practical realness for audiences used to more staid talks. My energy on stage is consistently a hit. I've also been a guest on a number of industry podcasts, and have been a tech mentor & guest speaker for a host of student groups. 
+</p>
+
+<h3>Talks</h3>
 <a href="https://vimeo.com/651801535">IxDA Oslo</a>
 <a href="https://www.surfacingpodcast.com/ron-bronson-transcript">Surfacing Podcast</a> - On Service Design
 <a href="https://open.spotify.com/episode/3Xd9MZ9HdByErb41jb7vUX">ACT-IAC Podcast</a> - Edge Cases & Empathy
@@ -51,6 +65,7 @@ I've led content strategy & information architecture; steered UX research; advis
 <a href="https://linkedin.com/in/ronbronson">Linkedin</a>
 <a href="https://ronbronson.medium.com/">Medium</a>
 <a href="https://last.fm/user/omnivoreron">Last.fm</a>
+<a href="https://glass.photo/ron">Glass</a>
 <a href="https://open.spotify.com/user/ronbronson?si=5ad7335e796f4535"><i class="fa-brands fa-spotify"></i></a>
 
 <!--
