@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Zilla+Slab:wght@600&display=swap');
 
 :root {
 	/* Change this value ↓ 0-360 */
@@ -24,10 +24,10 @@
 
 	--space-wide: 0.8em;
 	--space-narrow: 0.4em;
-	--font-fancy: 'Archivo Black', serif;
+	--font-fancy: 'Zilla Slab', serif;
 	--font-body: 'Inter', serif;
-	--font-header: 'Archivo Black', sans-serif;
-	--font-mono: 'Fira Code', monospace;
+	--font-header: 'Zilla Slab', sans-serif;
+	--font-mono: 'Inter', monospace;
 	--border-radius: 4px;
 }
 
@@ -177,28 +177,4 @@ img {
 .dim {
 	font-size: smaller;
 	color: var(--colour-main-dim);
-}
-
-.last
-{
-  display:none;
-  position:fixed;
-  bottom:0px;
-  right:0px;
-  width:200px;
-}
-
-.last img
-{
-    padding-right:5px;
-}
-
-.last p
-{
-  float:left;
-}
-
-.last div
-{
-  margin:16px;
 }
