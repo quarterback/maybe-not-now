@@ -35,11 +35,6 @@ In practice, I wear a lot of hats. Everything from leading a team of design mana
 
 I've led content strategy & information architecture; steered UX research; advised senior leaders on digital strategy; and occasionally some Agile product management. I speak globally on these topics, too. I'm also (very slowly) working on a book about Consequence Design.
 
-<h3>Extracurriculars</h3>
-
-Outside of work, you can find me playing skeeball, <a href="https://www.superpesis.fi/uutiset/yhdysvaltalainen-ron-bronson-toteutti-unelmansa-ja-matkusti-suomeen-katsomaan-pesapalloa/">studying Finnish</a>, or coaching <a href="https://www.oregonlive.com/highschoolsports/2022/05/catlin-gabel-sweeps-class-4a3a2a1a-tennis-team-titles.html#:~:text=The%20Catlin%20Gabel%20Eagles%20came,reached%20the%20summit%20in%202022.">high school tennis.</a>
-
-Previously, I served on the Portland Historic Landmarks Commission, was an AIGA Indianapolis board member, a radio news anchor (and board member) for a community radio station. I also started Indianapolis Design Week in 2017. I've coached college debate a few times, accidentally <a href="https://en.wikipedia.org/wiki/Tennis_polo">invented a sport once</a>, and many moons ago, served in US Air Force.
 
 <h3>Speaking</h3>
 <a href="https://vimeo.com/651801535">IxDA Oslo</a>
@@ -51,9 +46,12 @@ Previously, I served on the Portland Historic Landmarks Commission, was an AIGA 
 
 
 <h3>Connect</h3>
-<i class="fa-solid fa-circle-envelope"><a href="mailto:contact@ronbronson.com"></a></i> | <i class="fa-solid fa-hashtag"><a href="https://www.polywork.com/quarterback"></a></i> | <i class="fa-solid fa-popcorn"><a href="https://letterboxd.com/ronbronson/"></a></i> | <i class="fa-solid fa-books"><a href="https://app.thestorygraph.com/profile/quarterback"></a></i> | <i class="fa-brands fa-twitter"><a href="https://twitter.com/ronbronson"></a></i> | <i class="fa-brands fa-linkedin-in"><a href="https://linkedin.com/in/ronbronson"></a></i> |
-<i class="fa-brands fa-medium"><a href="https://ronbronson.medium.com/"></a></i> | <i class="fa-brands fa-lastfm"><a href="https://last.fm/user/omnivoreron"></a></i> | <i class="fa-brands fa-spotify"><a href="https://open.spotify.com/user/ronbronson?si=5ad7335e796f4535"></a></i>
-
+<a href="mailto:contact@ronbronson.com">Email</a>
+<a href="https://twitter.com/ronbronson">Twitter</a>
+<a href="https://linkedin.com/in/ronbronson">Linkedin</a>
+<a href="https://ronbronson.medium.com/">Medium</a>
+<a href="https://last.fm/user/omnivoreron">Last.fm</a>
+<a href="https://open.spotify.com/user/ronbronson?si=5ad7335e796f4535"><i class="fa-brands fa-spotify"></i></a>
 
 <!--
 
