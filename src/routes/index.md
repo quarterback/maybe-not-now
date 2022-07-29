@@ -37,7 +37,7 @@ Outside of work, you can also find me spinning up skeeball leagues, or <a href="
 
 I was appointed by the Mayor to serve on the Portland Historic Landmarks Commission; served on several boards (AIGA Indy, IxDA), and spent two years as a radio news anchor (and board member) for a community radio station. I founded Indianapolis Design Week in 2017, which still exists under different leadership. Randomly, I (accidentally) <a href="https://en.wikipedia.org/wiki/Tennis_polo">invented a sport once</a>, and many moons ago, served in US Air Force.
 
-After playing tennis in both high school & college, I took up coaching. I worked at camps & schools around the country before taking nearly a decade off. In 2019, I started coaching high school tennis again as a head coach. My coaching philosophy mirrors how I work as a design leader; take the time to understand what motivates people, help them develop a success plan & put them in situations where they can gain confidence and grow. (Sometimes, this means failing first.) I run an inclusive program that motivates kids at every level to grow, regardless of their spot on the challenge ladder.
+After playing tennis in both high school & college, I took up coaching. I worked at camps & schools around the country before taking nearly a decade off before returning to HS coaching in 2019. My coaching philosophy mirrors how I work as a design leader; understand what motivates people, and put them in situations where they can gain confidence and grow. (Sometimes, this means failing first.) I run an inclusive program that motivates kids at every level to grow, whether they're a D1 recruit or JV. 
 
 <h3>Tennis Honors</h3>
 <p>
