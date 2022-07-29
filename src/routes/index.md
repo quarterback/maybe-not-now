@@ -37,7 +37,7 @@ I was appointed by the Mayor to serve on the Portland Historic Landmarks Commiss
 
 After playing tennis in both high school & college, I took up coaching. I spent several summers running tennis programs at some of the best camps in New England, as well as a collegiate program, before taking a decade off from coaching before returning in 2019 as a high school varsity head coach. My coaching philosophy mirrors how I work as a design leader; take the time to understand what motivates people, help them develop a success plan & put them in situations where they can gain confidence and grow. (Sometimes, this means failing first.) I run an inclusive program that motivates kids at every level to grow, regardless of their spot on the challenge ladder.
 
-<h3>Tennis Honors<h3>
+<h3>Tennis Honors</h3>
 2022 Oregon 4A/3A/2A/1A Girls Tennis State Champions (Catlin Gabel School)
 2022 District Girls Tennis Coach of the Year
 2021 & 2022 4A-1A District 1 Champions, 2x League Championships (20-0 in league play since 2019)
