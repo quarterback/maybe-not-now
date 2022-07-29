@@ -41,11 +41,11 @@ After playing tennis in both high school & college, I took up coaching. I worked
 
 <h3>Tennis Honors</h3>
 <p>
-2022 Oregon 4A/3A/2A/1A Girls Tennis State Champions (Catlin Gabel School)
-2022 District Girls Tennis Coach of the Year
-2021 & 2022 4A-1A District 1 Champions, 2x League Championships (20-0 in league play since 2019)
-12 All-District selections (2021-22), 4 individual district champions
-2019 OSAA All-State Academic Team (Oregon City HS)</p>
+2022 Oregon 4A/3A/2A/1A Girls Tennis State Champions (Catlin Gabel School)<br>
+2022 District Girls Tennis Coach of the Year<br>
+2021 & 2022 4A-1A District 1 Champions, 2x League Championships (20-0 in league play since 2019)<br>
+12 All-District selections (2021-22), 4 individual district champions <br>
+2019 OSAA All-State Academic Team (Oregon City HS)<br></p>
 
 
 <h3>Speaking</h3>
