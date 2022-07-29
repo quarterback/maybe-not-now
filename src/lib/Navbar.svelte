@@ -6,6 +6,7 @@
 
 	const navItems = [
 		{ label: 'Home', href: '/' },
+		{ label: 'Tennis', href: '/tennis.md' },
 		{ label: 'Consequence Design', href: 'https://consequencedesign.com' },
 	];
 
