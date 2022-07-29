@@ -31,7 +31,9 @@
 
 <h2>Service Design Leadership</h2>
 
-My specialities are service design and information architecture. Beyond just building websites, I'm really good at helping stakeholders identify & solve intractable problems through user inquiry. Right now, I'm Head of Design for one of the largest design departments in the federal government at <a href="https://18f.gsa.gov">18F</a>. <br>Day to day, I lead teams of managers and designers who help improve technology for the public interest. For nearly two decades, I've worn every imaginable hat you can on digital project teams -- product manager, content strategist, UX designer, researcher and product designer. <br>
+My specialities are service design and information architecture. Beyond just building websites, I'm really good at helping stakeholders identify & solve intractable problems through user inquiry. Right now, I'm Head of Design for one of the largest design departments in the federal government at <a href="https://18f.gsa.gov">18F</a>. <br>
+
+Day to day, I lead teams of managers and designers who help improve technology for the public interest. For nearly two decades, I've worn every imaginable hat you can on digital project teams -- product manager, content strategist, UX designer, researcher and product designer. <br>
 
 I was appointed by the Mayor to serve on the Portland Historic Landmarks Commission; was a member of several non-profit boards (AIGA Indy, IxDA) and even a community radio station. I organized a bevy of events over the years, including founding Indianapolis Design Week in 2017. I (accidentally) <a href="https://en.wikipedia.org/wiki/Tennis_polo">invented a sport once</a>, and many moons ago, served in US Air Force. <br>
 
