@@ -33,18 +33,20 @@
 
 <p> My specialities are service design and information architecture. Beyond just building websites, I'm really good at helping stakeholders identify & solve intractable problems through user inquiry. Right now, I'm Head of Design for one of the largest design departments in the federal government at <a href="https://18f.gsa.gov">18F</a>. Day to day, I lead teams of managers and designers who help improve technology for the public interest. For nearly two decades, I've worn every imaginable hat you can on digital project teams -- product manager, content strategist, UX designer, researcher and product designer. 
 
+Outside of work, you can also find me spinning up skeeball leagues, or <a href="https://www.superpesis.fi/uutiset/yhdysvaltalainen-ron-bronson-toteutti-unelmansa-ja-matkusti-suomeen-katsomaan-pesapalloa/">co-hosting the only English-language podcast about Finnish baseball.</a> (it's a long story...) 
+
 I was appointed by the Mayor to serve on the Portland Historic Landmarks Commission; served on several boards (AIGA Indy, IxDA), and spent two years as a radio news anchor (and board member) for a community radio station. I founded Indianapolis Design Week in 2017, which still exists under different leadership. Randomly, I (accidentally) <a href="https://en.wikipedia.org/wiki/Tennis_polo">invented a sport once</a>, and many moons ago, served in US Air Force.
 
 After playing tennis in both high school & college, I took up coaching. I spent several summers running tennis programs at some of the best camps in New England, as well as a collegiate program, before taking a decade off from coaching before returning in 2019 as a high school varsity head coach. My coaching philosophy mirrors how I work as a design leader; take the time to understand what motivates people, help them develop a success plan & put them in situations where they can gain confidence and grow. (Sometimes, this means failing first.) I run an inclusive program that motivates kids at every level to grow, regardless of their spot on the challenge ladder.
 
 <h3>Tennis Honors</h3>
+<p>
 2022 Oregon 4A/3A/2A/1A Girls Tennis State Champions (Catlin Gabel School)
 2022 District Girls Tennis Coach of the Year
 2021 & 2022 4A-1A District 1 Champions, 2x League Championships (20-0 in league play since 2019)
 12 All-District selections (2021-22), 4 individual district champions
-2019 OSAA All-State Academic Team (Oregon City HS)
+2019 OSAA All-State Academic Team (Oregon City HS)</p>
 
-Outside of work, you can also find me spinning up skeeball leagues, or <a href="https://www.superpesis.fi/uutiset/yhdysvaltalainen-ron-bronson-toteutti-unelmansa-ja-matkusti-suomeen-katsomaan-pesapalloa/">co-hosting the only English-language podcast about Finnish baseball.</a> (it's a long story...)
 
 <h3>Speaking</h3>
 <p>I've been on stage at over 50 tech & design conference since 2013. Beyond local events, I've been on stage at global events like Service Design Global Conference, Confab, An Event Apart and Pixel Up. I speak on a range of topics related to my work, and enjoy melding technical expertise with practical realness for audiences used to more staid talks. My energy on stage is consistently a hit. I've also been a guest on a number of industry podcasts, and have been a tech mentor & guest speaker for a host of student groups. 
