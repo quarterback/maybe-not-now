@@ -46,7 +46,7 @@ After playing tennis in both high school & college, I took up coaching. I worked
 <li>2022 District Girls Tennis Coach of the Year<br></li>
 <li>2021 & 2022 District Champions, 2x League Championships (20-0 in league play since 2019)<br></li>
 <li>12x All-District selections (2021-22), 4x individual district champions <br></li>
-<li>2019 OSAA All-State Academic Team (Oregon City HS)<br></p></li>
+<li>2019 OSAA All-State Academic Team (Oregon City HS)<br></p>
 
 
 <h3>Speaking</h3>
