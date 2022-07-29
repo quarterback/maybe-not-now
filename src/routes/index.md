@@ -65,7 +65,7 @@ Outside of work, you can also find me spinning up skeeball leagues, or <a href="
 <a href="https://linkedin.com/in/ronbronson">Linkedin</a>
 <a href="https://ronbronson.medium.com/">Medium</a>
 <a href="https://last.fm/user/omnivoreron">Last.fm</a>
-<a href="https://glass.photo/ron">Glass</a>
+<a href="https://glass.photo/ron">Instagram</a>
 <a href="https://open.spotify.com/user/ronbronson?si=5ad7335e796f4535"><i class="fa-brands fa-spotify"></i></a>
 
 <!--
