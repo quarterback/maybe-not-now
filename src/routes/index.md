@@ -31,17 +31,17 @@
 
 <h2>Service Design Leadership</h2>
 
-My specialities are service design and information architecture. Beyond just building websites, I'm really good at helping stakeholders identify & solve intractable problems through user inquiry. Right now, I'm Head of Design for one of the largest design departments in the federal government at <a href="https://18f.gsa.gov">18F</a>. <br>
+Ron Bronson is a design leader & strategist with deep experience leading digital initiatives from ideation to post-launch. Outside of work, he's a global speaker on service design. His practice is focused around Consequence Design which centers on interaction design harms (aka "dark patterns"), the intersection of technology in spatial experiences, and consumer advocacy in service delivery. He spent the past 4 years at GSA's 18F, most recently as head of one of the government's largest in-house design teams.
 
-Day to day, I lead teams of managers and designers who help improve technology for the public interest. For nearly two decades, I've worn every imaginable hat you can on digital project teams -- product manager, content strategist, UX designer, researcher and product designer. <br>
+Ron spent a decade working on large-scale websites across the public & private sector. <br>
 
-I was appointed by the Mayor to serve on the Portland Historic Landmarks Commission; was a member of several non-profit boards (AIGA Indy, IxDA) and even a community radio station. I organized a bevy of events over the years, including founding Indianapolis Design Week in 2017. I (accidentally) <a href="https://en.wikipedia.org/wiki/Tennis_polo">invented a sport once</a>, and many moons ago, served in US Air Force. <br>
+He was appointed by the Mayor to serve on the Portland Historic Landmarks Commission; was a member of several non-profit boards (AIGA Indy, IxDA) and even a community radio station. He organized the first Indianapolis Design Week in 2017, and one summer in Connecticut (accidentally) <a href="https://en.wikipedia.org/wiki/Tennis_polo">invented a sport.</a> Many moons ago, Ron served in US Air Force. <br>
 
-Outside of work, you can also find me spinning up skeeball leagues, curating the tea menu at your favorite hangout, hosting bar trivia, being a news anchor for local radio or <a href="https://www.superpesis.fi/uutiset/yhdysvaltalainen-ron-bronson-toteutti-unelmansa-ja-matkusti-suomeen-katsomaan-pesapalloa/">ranting online in Finnish</a> about baseball. (it's a long story...) <br>
+Outside of work, you can also find him spinning up skeeball leagues, curating the tea menu at your favorite hangout, hosting bar trivia, podcasting, or <a href="https://www.superpesis.fi/uutiset/yhdysvaltalainen-ron-bronson-toteutti-unelmansa-ja-matkusti-suomeen-katsomaan-pesapalloa/">ranting online in Finnish</a> about baseball. (it's a long story...) <br>
 
 <h3>Coaching</h3>
 
-After playing tennis in both high school & college, I took up coaching. I worked at camps & schools around the country before taking nearly a decade off before returning to HS coaching in 2019. My coaching philosophy mirrors how I work as a design leader; understand what motivates people, and put them in situations where they can gain confidence and grow. (Sometimes, this means failing first.) I run an inclusive program that motivates kids at every level to grow, whether they're a D1 recruit or JV. 
+A life-long tennis player, Ron has coached high school tennis programs in Colorado and Oregon, and most recently led his team to a state championship in 2022. He previously directed tennis at summer camps in New England, and a collegiate assistant coach.
 
 <p>
 <li>2022 OSAA 4A/3A/2A/1A Girls Tennis State Champions (Catlin Gabel School)<br></li>
