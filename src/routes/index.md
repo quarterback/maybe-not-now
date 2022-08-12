@@ -50,13 +50,13 @@ FTA Tech Conference - Portland, OR (August 2022)<br />
 Portland Design Festival - (October 2022)<br />
 Rosenfeld Media Civic Design Conference - (November 2022) <br />
 
-<h3>Talks</h3>
-<a href="https://vimeo.com/651801535">IxDA Oslo</a>
-<a href="https://www.surfacingpodcast.com/ron-bronson-transcript">Surfacing Podcast</a> - On Service Design
-<a href="https://open.spotify.com/episode/3Xd9MZ9HdByErb41jb7vUX">ACT-IAC Podcast</a> - Edge Cases & Empathy
-<a href="https://youtu.be/JqguCFiY3KM">Service Design Network Global Conference</a>
-<a href="https://aneventapart.com/event/online-0720#s24059">An Event Apart</a>
-<a href="https://www.youtube.com/watch?v=REUJCWpFOcI">DrupalCon</a>
+<h3>Recent Talks</h3>
+<a href="https://vimeo.com/651801535">IxDA Oslo - Dec 2021</a>
+<a href="https://www.surfacingpodcast.com/ron-bronson-transcript">Surfacing Podcast</a> - On Service Design (2021)
+<a href="https://open.spotify.com/episode/3Xd9MZ9HdByErb41jb7vUX">ACT-IAC Podcast</a> - Edge Cases & Empathy (2021)
+<a href="https://youtu.be/JqguCFiY3KM">Service Design Network Global Conference</a> (2020)
+<a href="https://aneventapart.com/event/online-0720#s24059">An Event Apart</a> (2020)
+<a href="https://www.youtube.com/watch?v=REUJCWpFOcI">DrupalCon</a> (2018)
 
 <h3>Coaching</h3>
 
