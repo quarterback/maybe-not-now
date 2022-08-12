@@ -59,9 +59,9 @@ Rosenfeld Media Civic Design Conference - (November 2022) <br />
 <a href="https://www.youtube.com/watch?v=REUJCWpFOcI">DrupalCon</a> (2018)
 
 <h3>Coaching</h3>
+
 Ron has directed tennis programs at summers camps throughout New England, and coached collegiate and high school programs over the past two decades in Colorado, Illinois, Oregon and Wyoming. Since 2019, he's coached varsity HS tennis in Oregon where he's led the Catlin Gabel Girls Tennis Program to back-to-back District Championships and their first 4A-1A Girls State championship since 2016. (He also coached college debate for a spell too, but doesn't miss it.)
 
-<p>
 <li>2022 OSAA 4A/3A/2A/1A Girls Tennis State Champions (Catlin Gabel School)<br></li>
 <li>2022 District Girls Tennis Coach of the Year<br></li>
 <li>2021 & 2022 District Champions, 2x League Championships (20-0 in league play since 2019)<br></li>
