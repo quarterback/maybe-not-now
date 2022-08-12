@@ -59,8 +59,7 @@ Rosenfeld Media Civic Design Conference - (November 2022) <br />
 <a href="https://www.youtube.com/watch?v=REUJCWpFOcI">DrupalCon</a> (2018)
 
 <h3>Coaching</h3>
-
-A life-long tennis player, Ron has coached high school tennis programs in Colorado and Oregon, and most recently led his team to a state championship in 2022. He previously directed tennis at summer camps in New England, and a collegiate assistant coach. Randomly, he's also coached college debate but those days are long over. 
+Ron has directed tennis programs at summers camps throughout New England, and coached collegiate and high school programs over the past two decades in Colorado, Illinois, Oregon and Wyoming. Since 2019, he's coached varsity HS tennis in Oregon where he's led the Catlin Gabel Girls Tennis Program to back-to-back District Championships and their first 4A-1A Girls State championship since 2016. (He also coached college debate for a spell too, but doesn't miss it.)
 
 <p>
 <li>2022 OSAA 4A/3A/2A/1A Girls Tennis State Champions (Catlin Gabel School)<br></li>
@@ -68,7 +67,6 @@ A life-long tennis player, Ron has coached high school tennis programs in Colora
 <li>2021 & 2022 District Champions, 2x League Championships (20-0 in league play since 2019)<br></li>
 <li>12x All-District selections (2021-22), 4x individual district champions <br></li>
 <li>2019 OSAA All-State Academic Team (Oregon City HS)<br></p>
-
 
 <h3>Connect</h3>
 <a href="mailto:contact@ronbronson.com">Email</a>
