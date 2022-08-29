@@ -38,17 +38,16 @@ He was appointed by the Mayor to serve on the Portland Historic Landmarks Commis
 Outside of work, you can also find him spinning up skeeball leagues, curating the tea menu at your favorite hangout, hosting bar trivia, podcasting, or <a href="https://www.superpesis.fi/uutiset/yhdysvaltalainen-ron-bronson-toteutti-unelmansa-ja-matkusti-suomeen-katsomaan-pesapalloa/">ranting online in Finnish</a> about baseball. (it's a long story...) <br>
 
 
-<h3>Speaking</h3>
-
-I gave my first talk when I was 5 years old and I feel like I've had a mic in my hand ever since. (Ask me the story sometime...)
-
-Beyond local events, I've been on stage at global events like Service Design Global Conference, Confab, An Event Apart and Pixel Up. I speak on a range of topics related to my work, and enjoy melding technical expertise with practical realness for audiences used to more staid talks. My energy on stage is consistently a hit. I've also been a guest on a number of industry podcasts, and have been a mentor & guest speaker for a host of student groups.
-
 <h3>Upcoming Talks</h3> 
 
 FTA Tech Conference - Portland, OR (August 2022)<br />
 Portland Design Festival - (October 2022)<br />
 Rosenfeld Media Civic Design Conference - (November 2022) <br />
+ConveyUX - (May 2023) <br / >
+
+<h3>Speaking</h3>
+
+Ron has presented at over 50 design & tech events around the world since 2017.
 
 <h3>Recent Talks</h3>
 <a href="https://vimeo.com/651801535">IxDA Oslo - Dec 2021</a>
