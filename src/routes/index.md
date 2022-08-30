@@ -43,7 +43,7 @@ Outside of work, you can also find him spinning up skeeball leagues, curating th
 FTA Tech Conference - Portland, OR (August 2022)<br />
 Portland Design Festival - (October 2022)<br />
 Rosenfeld Media Civic Design Conference - (November 2022) <br />
-ConveyUX - (May 2023) <br / >
+ConveyUX - (May 2023) <br />
 
 <h3>Speaking</h3>
 
