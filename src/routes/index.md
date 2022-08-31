@@ -62,8 +62,7 @@ Ron has presented at over 50 design & tech events around the world since 2017.
 <p>After playing both high school & college tennis, Ron has coached in an array of contexts. Since 2019, he's coached varsity HS tennis in Oregon. This spring, he led the Catlin Gabel Girls Tennis Program the 2022 Oregon 4A-1A Girls State championship, after claiming consecutive District titles during the pandemic-shortened seasons. For his effort, he was named 2022 District Girls Coach of the Year. <br>
 
 He's coached 7 All-state selections, 12 All-District and 3 individual district champions. His 2019 Oregon City Boys Varsity Team were an OSAA Academic All-State team, boasting their highest team GPA in over a decade. Ron has directed tennis programs at summers camps throughout New England, and coached collegiate and high school programs in Colorado, Illinois, Oregon and Wyoming.
-(He also coached college debate for a spell too, but doesn't miss it.)</p>
-
+(He also coached college debate for a spell too, but doesn't miss it.) 
 
 <h3>Connect</h3>
 <a href="mailto:contact@ronbronson.com">Email</a>
