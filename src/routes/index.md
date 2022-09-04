@@ -59,10 +59,15 @@ Ron has presented at over 50 design & tech events around the world since 2017.
 
 <h3>Coaching</h3>
 
-<p>After playing both high school & college tennis, Ron has coached in an array of contexts. Since 2019, he's coached varsity HS tennis in Oregon. This spring, he led the Catlin Gabel Girls Tennis Program the 2022 Oregon 4A-1A Girls State championship, after claiming consecutive District titles during the pandemic-shortened seasons. For his effort, he was named 2022 District Girls Coach of the Year. <br>
+<p>Outside of tech, Ron has coached tennis programs in his spare time around the country including summer camp programs throughout New England. 
 
-He's coached 7 All-state selections, 12 All-District and 3 individual district champions. His 2019 Oregon City Boys Varsity Team were an OSAA Academic All-State team, boasting their highest team GPA in over a decade. Ron has directed tennis programs at summers camps throughout New England, and coached collegiate and high school programs in Colorado, Illinois, Oregon and Wyoming.
-(He also coached college debate for a spell too, but doesn't miss it.) 
+Since 2020, he's been the head girls' tennis coach at Catlin Gabel School in Portland, Oregon, where he's compliled a record of 22-1. Before that, he served as head boys' tennis coach at Oregon City High School in 2019, and spent seasons as an assistant coach at Colorado Academy in Denver, and Aurora University. 
+
+At Catlin Gabel, the Eagles women's program won consecutive league championships, clinched the district singles & doubles titles, as well as back-to-back district titles en route to a culminating Oregon 4A-1A state title in 2022. At Oregon City, his team was an OSAA All-State Academic team selection in 2019.
+
+As a player, Ron was a four-year letter winner, captain & all-area doubles honorable mention selection his senior year at Plainfield (NJ) High School, where he was part of three consecutive NJSIAA state playoff teams and a conference championship in 1997, which was the first boys tennis conference title in school history. He played one season of college tennis at Monmouth (IL) College in 2003, where he played both singles (4/5/6) & doubles (2) and served as a team captain. 
+
+(He also coached college speech & debate for three seasons, (and started at least two college debate programs, and ghostwrote a student government constitution,) but now he just occasionally a new generation of debaters to his odd judging philosophy.)
 
 <h3>Connect</h3>
 <a href="mailto:contact@ronbronson.com">Email</a>
