@@ -61,9 +61,11 @@ Ron has presented at over 50 design & tech events around the world since 2017.
 
 <p>Outside of tech, Ron has coached tennis programs in his spare time around the country including summer camp programs throughout New England. 
 
-Since 2020, he's been the head girls' tennis coach at Catlin Gabel School in Portland, Oregon, where he's compliled a record of 22-1. Before that, he served as head boys' tennis coach at Oregon City High School in 2019, and spent seasons as an assistant coach at Colorado Academy in Denver, and Aurora University. 
+Since 2020, he's been the head girls' tennis coach at Catlin Gabel School in Portland, Oregon, where he's compliled a dual meet record of 22-1, and coached the program to the 2022 4A-1A Oregon state title, 2 League titles & 2 District championships. 11 Catlin players made the district tournament quarterfinals in 2022, and the team broke the school record for most state tournament entries with 7. He's coached a state finalist, state semi-finalist & the state's top-seeded doubles team. 
 
-At Catlin Gabel, the Eagles women's program won consecutive league championships, clinched the district singles & doubles titles, as well as back-to-back district titles en route to a culminating Oregon 4A-1A state title in 2022. At Oregon City, his team was an OSAA All-State Academic team selection in 2019.
+Before that, Ron served as head boys' tennis coach at Oregon City High School in 2019 and Girls' head tennis coach Denver North High School in 2011. He also spent seasons as an assistant coach at Colorado Academy in Denver, and Aurora University in Illinois. At Oregon City, his team was an OSAA All-State Academic team selection in 2019 while playing in the state's toughest 6A tennis conference. 
+
+Ron's career dual meet record as a head coach is currently 36-17-1.
 
 As a player, Ron was a four-year letter winner, captain & all-area doubles honorable mention selection his senior year at Plainfield (NJ) High School, where he was part of three consecutive NJSIAA state playoff teams and a conference championship in 1997, which was the first boys tennis conference title in school history. He played one season of college tennis at Monmouth (IL) College in 2003, where he played both singles (4/5/6) & doubles (2) and served as a team captain. 
 
