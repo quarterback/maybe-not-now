@@ -33,7 +33,7 @@
 
 Ron Bronson is a design leader & strategist with deep experience leading digital initiatives from ideation to post-launch. Outside of work, he's a global speaker on service design. His practice is focused around Consequence Design which centers on interaction design harms (aka "dark patterns"), the intersection of technology in spatial experiences, and consumer advocacy in service delivery. He spent the past 4 years at GSA's 18F, most recently as head of one of the government's largest in-house design teams.
 
-He was appointed by the Mayor to serve on the Portland Historic Landmarks Commission; was a member of several non-profit boards (AIGA Indy, IxDA) and even a community radio station. He organized the first Indianapolis Design Week in 2017, and one summer in Connecticut (accidentally) <a href="https://en.wikipedia.org/wiki/Tennis_polo">invented a sport.</a> Many moons ago, Ron served in US Air Force. <br>
+He was appointed by the Mayor to serve on the Portland Historic Landmarks Commission; was a member of several non-profit boards (AIGA Indy, IxDA) and even a community radio station. He started Indianapolis Design Week in 2017, and one summer in Connecticut (accidentally) <a href="https://en.wikipedia.org/wiki/Tennis_polo">invented a sport.</a> Many moons ago, Ron served in US Air Force. <br>
 
 Outside of work, you can also find him spinning up skeeball leagues, curating the tea menu at your favorite hangout, hosting bar trivia, podcasting, or <a href="https://www.superpesis.fi/uutiset/yhdysvaltalainen-ron-bronson-toteutti-unelmansa-ja-matkusti-suomeen-katsomaan-pesapalloa/">ranting online in Finnish</a> about baseball. (it's a long story...) <br>
 
@@ -45,7 +45,7 @@ Portland Design Festival - (October 2022)<br />
 Rosenfeld Media Civic Design Conference - (November 2022) <br />
 ConveyUX - (May 2023) <br />
 
-<h3>Speaking</h3>
+<h3>Videos of Ron Talking With his Hands</h3>
 
 Ron has presented at over 50 design & tech events around the world since 2017.
 
@@ -61,11 +61,11 @@ Ron has presented at over 50 design & tech events around the world since 2017.
 
 <p>Outside of tech, Ron has coached tennis programs in his spare time around the country including summer camp programs throughout New England. 
 
-Since 2020, he's been the head girls' tennis coach at Catlin Gabel School in Portland, Oregon, where he's compliled a dual meet record of 22-1, and coached the program to the 2022 4A-1A Oregon state title, 2 League titles & 2 District championships. 11 Catlin players made the district tournament quarterfinals in 2022, and the team broke the school record for most state tournament entries with 7. He's coached a state finalist, state semi-finalist & the state's top-seeded doubles team. 
+Since 2020, he's been the head girls' tennis coach at Catlin Gabel School in Portland, Oregon, where he's compliled a dual meet record of 22-1, and coached the program to the 2022 4A-1A Oregon state title, 2 League titles & 2 District championships. During the 2022 state title season, the team broke the single-season record for wins and have completed back-to-back undefeated league seasons, and the team broke the school record for most state tournament entries with 7. He's coached a state singles finalist, state singles semi-finalist & the state's top-seeded doubles team all in 2022. He was selected as 2022 Girls Tennis 4A District 1 Girls Tennis Coach of the Year, and is a finalist for 2022 Oregon 4A-1A Girls Tennis State Coach of the Year. 
 
 Before that, Ron served as head boys' tennis coach at Oregon City High School in 2019 and Girls' head tennis coach Denver North High School in 2011. He also spent seasons as an assistant coach at Colorado Academy in Denver, and Aurora University in Illinois. At Oregon City, his team was an OSAA All-State Academic team selection in 2019 while playing in the state's toughest 6A tennis conference. 
 
-Ron's career dual meet record as a head coach is currently 36-17-1.
+Ron's career dual meet record as a head coach is currently 38-17-1.
 
 As a player, Ron was a four-year letter winner, captain & all-area doubles honorable mention selection his senior year at Plainfield (NJ) High School, where he was part of three consecutive NJSIAA state playoff teams and a conference championship in 1997, which was the first boys tennis conference title in school history. He played one season of college tennis at Monmouth (IL) College in 2003, where he played both singles (4/5/6) & doubles (2) and served as a team captain. 
 
