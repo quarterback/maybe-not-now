@@ -58,6 +58,18 @@ Ron has presented at over 50 design & tech events around the world since 2017.
 <a href="https://aneventapart.com/event/online-0720#s24059">An Event Apart</a> (2020)
 <a href="https://www.youtube.com/watch?v=REUJCWpFOcI">DrupalCon</a> (2018)
 
+<h3>Coaching</h3> 
+Outside of tech, Ron has coached tennis programs in his spare time around the country including summer camp programs throughout New England.
+
+Since 2020, he’s been the head girls’ tennis coach at Catlin Gabel School in Portland, Oregon, where he’s compliled a dual meet record of 22-1, and coached the program to the 2022 4A-1A Oregon state title, 2 League titles & 2 District championships. During the 2022 state title season, the team broke the single-season record for wins and have completed back-to-back undefeated league seasons, and the team broke the school record for most state tournament entries with 7. He’s coached a state singles finalist, state singles semi-finalist & the state’s top-seeded doubles team all in 2022. He was selected as 2022 Girls Tennis 4A District 1 Girls Tennis Coach of the Year, and is a finalist for 2022 Oregon 4A-1A Girls Tennis State Coach of the Year.
+
+Before that, Ron served as head boys’ tennis coach at Oregon City High School in 2019 where his team was an OSAA All-State Academic team selection in 2019 while playing in the state’s toughest 6A tennis conference. Prior to that, he spent interimittment time as a collegiate & high school assistant for programs in Illinois and Colorado.
+
+Ron’s career dual meet record as a head coach is currently 40-17-1.
+
+As a player, Ron was a four-year letter winner, captain & all-area doubles honorable mention selection his senior year at Plainfield (NJ) High School, where he was part of three consecutive NJSIAA state playoff teams and a conference championship in 1997, which was the first boys tennis conference title in school history. He played one season of college tennis at Monmouth (IL) College in 2003, where he played both singles (4/5/6) & doubles (2) and served as a team captain.
+
+(He also coached college speech & debate for three seasons, (and started at least two college debate programs, and ghostwrote a student government constitution,) but now he just occasionally a new generation of debaters to his odd judging philosophy.)
 
 <h3>Connect</h3>
 <a href="mailto:contact@ronbronson.com">Email</a>
