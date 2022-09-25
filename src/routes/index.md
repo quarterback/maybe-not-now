@@ -29,7 +29,10 @@
 
 # Ron Bronson
 
-<h2>Service Design Leadership</h2>
+<h2></h2>
+
+
+Ron Bronson leads impactful initiatives at the intersection of technology, service design and public policy. He began his career as an information architect managing large-scale digital systems. He currently serves as Director of Design at 18F, leading one of the largest experience design teams in federal government. He's also graduate candidate in Collaborative Design at the Pacific Northwest School of Art at Willamette University. 
 
 Ron Bronson is a design leader & strategist with deep experience leading digital initiatives from ideation to post-launch. Outside of work, he's a global speaker on service design. His practice is focused around Consequence Design which centers on interaction design harms (aka "dark patterns"), the intersection of technology in spatial experiences, and consumer advocacy in service delivery. He spent the past 4 years at GSA's 18F, most recently as head of one of the government's largest in-house design teams.
 
@@ -59,13 +62,11 @@ Ron has presented at over 50 design & tech events around the world since 2017.
 <a href="https://www.youtube.com/watch?v=REUJCWpFOcI">DrupalCon</a> (2018)
 
 <h3>Coaching</h3> 
-Outside of tech, Ron has coached tennis programs in his spare time around the country including summer camp programs throughout New England.
+Outside of tech, Ron has coached tennis programs in his spare time around the country including summer camp programs throughout New England intermittently over a decade.
 
-Since 2020, he’s been the head girls’ tennis coach at Catlin Gabel School in Portland, Oregon, where he’s compliled a dual meet record of 22-1, and coached the program to the 2022 4A-1A Oregon state title, 2 League titles & 2 District championships. During the 2022 state title season, the team broke the single-season record for wins and have completed back-to-back undefeated league seasons, and the team broke the school record for most state tournament entries with 7. He’s coached a state singles finalist, state singles semi-finalist & the state’s top-seeded doubles team all in 2022. He was selected as 2022 Girls Tennis 4A District 1 Girls Tennis Coach of the Year, and is a finalist for 2022 Oregon 4A-1A Girls Tennis State Coach of the Year.
+As Head Girls Varsity Tennis Coach at Catlin Gabel, his 2022 team won the 4A/3A/2A/1A Oregon State championship and claimed back-to-back District & Conference championships. In three seasons, he's had 11 All-District selections, as well as back-to-back individual singles & doubles district champions. While coaching in Wyoming, he led Cheyenne Central's girls team to a 3rd place finish at state, and a South Regional & Conference title. His boys team also finished 3rd in the region and the program boasted 2 All-State selections & 7 players All-Conference. In one season at Oregon City HS, his boys team earned OSAA All-State Academic honors. He's also coached collegiately in Illinois and high school programs in Colorado.
 
-Before that, Ron served as head boys’ tennis coach at Oregon City High School in 2019 where his team was an OSAA All-State Academic team selection in 2019 while playing in the state’s toughest 6A tennis conference. Prior to that, he spent interimittment time as a collegiate & high school assistant for programs in Illinois and Colorado.
-
-Ron’s career dual meet record as a head coach is currently 40-17-1.
+Ron’s career dual meet record as a head coach is currently 43-18-1.
 
 As a player, Ron was a four-year letter winner, captain & all-area doubles honorable mention selection his senior year at Plainfield (NJ) High School, where he was part of three consecutive NJSIAA state playoff teams and a conference championship in 1997, which was the first boys tennis conference title in school history. He played one season of college tennis at Monmouth (IL) College in 2003, where he played both singles (4/5/6) & doubles (2) and served as a team captain.
 
