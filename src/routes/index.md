@@ -32,13 +32,9 @@
 <h2></h2>
 
 
-Ron Bronson leads impactful initiatives at the intersection of technology, service design and public policy. He began his career as an information architect managing large-scale digital systems. He currently serves as Director of Design at 18F, leading one of the largest experience design teams in federal government. He's also graduate candidate in Collaborative Design at the Pacific Northwest School of Art at Willamette University. 
+I’m a Design Director based in Portland, Oregon. I’ve spent the bulk of my professional career working online, which is a wild proposition to my childhood self. Outside of technology, I run a local skeeball league, I coach high school, and nerd out on a bevy of random topics like <a href="https://www.superpesis.fi/uutiset/yhdysvaltalainen-ron-bronson-toteutti-unelmansa-ja-matkusti-suomeen-katsomaan-pesapalloa">Finnish baseball</a>. You can find me at conferences and design events around the world, or occasionally, on a podcast or two. 
 
-Ron Bronson is a design leader & strategist with deep experience leading digital initiatives from ideation to post-launch. Outside of work, he's a global speaker on service design. His practice is focused around Consequence Design which centers on interaction design harms (aka "dark patterns"), the intersection of technology in spatial experiences, and consumer advocacy in service delivery. He spent the past 4 years at GSA's 18F, most recently as head of one of the government's largest in-house design teams.
-
-He was appointed by the Mayor to serve on the Portland Historic Landmarks Commission; was a member of several non-profit boards (AIGA Indy, IxDA) and even a community radio station. He started Indianapolis Design Week in 2017, and one summer in Connecticut (accidentally) <a href="https://en.wikipedia.org/wiki/Tennis_polo">invented a sport.</a> Many moons ago, Ron served in US Air Force. <br>
-
-Outside of work, you can also find him spinning up skeeball leagues, curating the tea menu at your favorite hangout, hosting bar trivia, podcasting, or <a href="https://www.superpesis.fi/uutiset/yhdysvaltalainen-ron-bronson-toteutti-unelmansa-ja-matkusti-suomeen-katsomaan-pesapalloa/">ranting online in Finnish</a> about baseball. (it's a long story...) <br>
+Want to collaborate on something? [Get in touch](mailto:coach@ronbronson.com)
 
 
 <h3>Upcoming Talks</h3> 
@@ -46,6 +42,7 @@ Outside of work, you can also find him spinning up skeeball leagues, curating th
 FTA Tech Conference - Portland, OR (August 2022)<br />
 Portland Design Festival - (October 2022)<br />
 Federal CX Leadership Symposium - (October 2022) <br />
+Cloudflare Design Growth Week - (October 2022) <br />
 Rosenfeld Media Civic Design Conference - (November 2022) <br />
 ConveyUX - (May 2023) <br />
 
